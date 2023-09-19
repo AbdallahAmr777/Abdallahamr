@@ -10,7 +10,7 @@ function Navar() {
             <Navbar bg="dark" expand="lg">
                 <Container>
                     <NavLink to="/"><img src="images/618b5b33c589e179c2c8b27c_Shiloh New Logo-01-p-3200.png" alt="" /></NavLink>
-                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                    <Navbar.Toggle aria-controls="basic-navbar-nav" className="bg-white" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="navlinks justify-content-end">
                             <HashLink to="/#latest">Latest Builds</HashLink>
