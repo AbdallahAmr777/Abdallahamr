@@ -34,7 +34,7 @@ const Home = () => {
               data-wow-delay="0.1s"
             >
               <h4>
-                FRONT-END-DEVELOPER<span>//</span> WEB DESIGN{" "}
+               FUll STACK DEVELOPER<span>//</span> WEB DESIGN{" "}
               </h4>
               <h1>Abdullah Amr Portfolio.</h1>
               <h5>
